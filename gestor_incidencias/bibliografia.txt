@@ -1,0 +1,5 @@
+https://es.stackoverflow.com/questions/42893/cannot-use-object-of-type-mysqli-result-as-array
+
+https://www.php.net/manual/es/mysqli.query.php
+
+https://www.codexworld.com/distance-between-two-addresses-google-maps-api-php/
